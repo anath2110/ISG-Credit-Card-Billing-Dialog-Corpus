@@ -1,0 +1,2 @@
+This directory contains audios that are dialog segments extracted from the original full audios containing the  contextual speech segments preceeding and following 'Okay'.
+Each of these audios is named after the context category that its 'Okay' belongs to.
