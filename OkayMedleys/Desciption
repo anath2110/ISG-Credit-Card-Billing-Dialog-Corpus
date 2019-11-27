@@ -1,1 +1,3 @@
-
+This directory contains 2 audios only.
+audioVirtualAgentOkay.wav: contains 'Okay's spoken by the system/conversational agent in various contexts, extracted from the original audios and concatenated together.
+audioOkayMedley.wav: contains all 'Okay's spoken by any speaker in each of the different contexts, extracted from the original audios and concatenated together.
