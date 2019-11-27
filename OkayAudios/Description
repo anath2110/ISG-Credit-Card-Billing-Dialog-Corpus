@@ -1,1 +1,2 @@
-This directory contains only those dialog segments where the speaker said 'Okay'.
+This directory contains audios, each of which are extracted from the original full audios containing only those dialog segments where the speaker said 'Okay'.
+Each audio is named after the abbreviated name of its context category and the start time-stamp in the original full audio. 
